@@ -4,7 +4,9 @@ You'll find the APK file in this link :
 
 https://drive.google.com/file/d/1ZnvYR7u1BQwAsXKVdJRUbekkNGi5T4gA/view?usp=sharing
 
+You'll find the video demo in this link :
 
+https://youtu.be/f-xSWKJolss?si=0Jp2p8uZTFFVHLl5
 
 ## Getting Started
 
